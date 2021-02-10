@@ -14,7 +14,8 @@
 					"value": "@concat\n(\n item().Table_Name, '.csv'\n)\n",
 					"type": "Expression"
 				},
-				"fileSystem": "streaming"
+				"folderPath": "vanarsdel",
+				"fileSystem": "onprem"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

@@ -1,0 +1,12 @@
+{
+	"name": "DS_SQL_ONPREM",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "IR_Link_Service_VM_SQL",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	}
+}
