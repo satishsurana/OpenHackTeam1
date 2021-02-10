@@ -1,0 +1,7 @@
+{
+	"name": "IR-ON-Premise",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "IR for On Premise VM"
+	}
+}
